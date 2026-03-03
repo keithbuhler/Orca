@@ -6,23 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: BlogBox
+title: 498 Orcas St
 
 # Below the site title
-tagline: Tales of a digital nomad.
+tagline: The story of a restoration
 
 # Site logo
 logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
-  BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
+  Orcas St is an amazing modern custom home that fell into disrepair through no fault of its own. We are bringing it back 
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: https://blogbox.netlify.app
+url: https://www.keithbuhler.com
 
 # The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
-baseurl:
+baseurl: /orca
 
 sass:
   sass_dir: _sass
@@ -33,16 +33,12 @@ navigation:
   url: /
 - text: About
   url: /about/
-- text: Style Guide
-  url: /style-guide/
-- text: Archives
-  url: /tags/
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
-author_url: "https://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
+author_name: "Keith Buhler"
+author_bio: "My name is Dr Dionysius "Keith" Buhler. I'm an entrepreneur, educator, and builder."
+author_url: "https://www.keithbuhler.com"
+author_location: "Sunny California"
 author_image: authorimage.jpg
 
 # Footer ad banner
@@ -53,18 +49,14 @@ banner_url: https://justgoodthemes.com/
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 
 # Social links in the site footer
-twitter_username: "username"
-facebook_username: "username"
-github_username: "username"
-codepen_username: "username"
-dribbble_username: "username"
-medium_username: "@username"
-instagram_username: "username"
-pinterest_username: "username"
-linkedin_username: "username"
+twitter_username: "keith_buhler"
+facebook_username: "keithedbuhler"
+github_username: "keithbuhler"
+instagram_username: "keithedbuhler"
+linkedin_username: "keithedbuhler"
 
 # http://jekyllrb.com/docs/pagination/
-paginate: 5
+paginate: 6
 paginate_path: '/blog/page:num/'
 plugins: [jekyll-paginate]
 
