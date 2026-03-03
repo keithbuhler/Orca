@@ -2,7 +2,7 @@
 layout: page
 title: A HOUSE WITH A STORY
 description: This deal is nuts!
-featured_image: aboutPage.png
+featured_image: mitch.jpeg
 ---
 
 We're so proud to announce that we have got a beautiful, one of a kind, coastal property under contract. 
