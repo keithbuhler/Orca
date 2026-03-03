@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "Orcas St 498"
+title: "498 Orcas St, Morro Bay CA"
 
 # Below the site title
 tagline: "The story of a restoration"
@@ -36,7 +36,7 @@ navigation:
     url: /orca/about/
 
 # Author information - author info at the bottom of the post
-author_name: "Keith Buhler"
+author_name: "Dionysius Buhler"
 author_bio: "My name is Dr Dionysius \"Keith\" Buhler. I'm an entrepreneur, educator, and builder."
 author_url: "https://www.keithbuhler.com"
 author_location: "Sunny California"
