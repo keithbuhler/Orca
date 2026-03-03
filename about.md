@@ -1,24 +1,60 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for BlogBox Jekyll theme
+title: About this Project
+description: This deal is nuts!
 featured_image: aboutPage.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+A HOUSE WITH A STORY
 
-Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
+We've got a beautiful, one of a kind, coastal property under contract. 
 
-When I landed in Bangkok, I had $3500 USD to my name and that was it. I booked a bed in a old guesthouse in the center of the city for about a dollar per night and let the adventure begin.
+It's kind of home you work your whole life to be able to afford and live in. 
 
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
+But!
 
-In the end, I never went home after those three months. And it’s now been over 14 years and that trip has still yet to finish.
+It needs work. 
 
-The adventure has involved over 75+ countries on 5 continents as I’ve worked, lived, traveled and volunteered all over the planet.
+It's been abandoned... 
 
-Through my own adventures – from the incredible moments and rewarding interactions to the struggles and major challenges – I aim to provide a realistic and honest account of what long-term travel is truly about and how you can work on achieving such a goal yourself.
+It's open to the elements...
 
-While the recognition and mentions this blog has received over the years are certainly nice, nothing compares to an email from a reader telling me that the blog helped them achieve their own travel goals.
+The original owner is alive but incapacitated. The trust is selling it off for pennies. 
 
-*Thank You for reading!*
+A normal homebuyer won't touch it. The neighbors can't stand it! Investors reflexively put in offers but didn't count the cost... 
+
+Sure, it's location location location ... panoramic view of the ocean; half mile walk to the beach; enjoy Morro Rock while washing the dishes.
+
+But! 
+
+What homeowner is going to put in that work on a house they can't live in? 
+
+What flipper is going to do his due diligence? 
+
+Who wants to deal with the city, permitting, months of effort? 
+
+Well, I actually drove to the property and saw the damage. 
+
+I heard about the legacy. 
+
+I researched the original owner and builder -- a beautiful soul with a unique vision. 
+
+His wife just passed away. 
+
+This is a piece of his legacy. 
+
+It deserves respect. 
+
+It deserves restoration. 
+
+It deserves to have a new owner who will love it. 
+
+Yes it's work -- but my team has tackled big projects. We have 20 deals under our belt. A 26 unit apartment. A CA forest house. Almost a dozen flips. 
+
+We think we can do it. With the right partners, the right mindset, the right contractors, the right timeline. 
+
+We think we can win over the city to trust us and help us. We think the financial incentive is aligned with the incentive of putting this precious lot back into the hands of homeowners. 
+
+Morro Bay only *has* 5000 places to live. This one home is .0002% of the entire housing market. We think the buyers will come. 
+
+Very excited to embark on this journey and share the love with the right partners, contractors, realtors, and neighbors. 
