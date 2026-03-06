@@ -5,12 +5,11 @@ description: This deal is nuts!
 featured_image: mitch.jpeg
 ---
 
-We're so proud to announce that we have got a beautiful, one of a kind, coastal property under contract. 
+We're so proud to announce that we are in escrow on this beautiful, one of a kind, coastal property. 
 
-It's kind of home you work your whole life to have the chance to live in. 
+498 Orcas St is the kind of home you work your whole life to have the chance to live in... to vacation in... to call your own. 
 
 But!
-
 
 As of late 2025... It needed work. 
 
@@ -18,11 +17,11 @@ It had been abandoned...
 
 The wrap was failing.
 
-The original owner was no longer able to live there or continue the project. 
+The original owner was no longer living there. They just couldn't continue the project. 
 
 Sure, a normal homebuyer wouldn't touch it. The neighbors couldn't stand it! 
 
-Investors reflexively put in offers but didn't count the cost... 
+A few tire kickers reactively put in offers but didn't count the cost... 
 
 It's location location location ... panoramic view of the ocean; half mile walk to the beach; enjoy Morro Rock while washing the dishes.
 
